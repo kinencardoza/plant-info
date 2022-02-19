@@ -1,18 +1,16 @@
 {
-    "Plants": {
-        "Alpinia Galanga":{
-          
+    "Plants": [
+        {
             "plant name": "Alpinia Galanga",
             "common name": "Siamese Ginger, Galangal, Greater Galangal, Thai Ginger.",
-            "family": "Zingiberaceae",
+            "family": "Zingiberaceae.",
             "description": "Alpinia Galanga is an herbaceous plant. It can grow up to 3.5 centimeters with thick underground rhizomes. The rhizomes have a red and brown color on the surface. The inside of the rhizome is brown and orange in color. The plant is erect and covered with leaves. The leaves are smooth and acute. The size and shape of the leaves are 3.8 to 11.5 centimeters. Flowers have a pleasant smell and have white buds. The flowers are greenish-white in color with a dark-red veined tip. The flowers also produce red berries. The fruit is oval in shape and is colored orange to red. The fruits have a diameter of 1.5 centimeters.",
             "uses": "The leaves are best suited in cooking. In boiling, sauteing and steaming. To impart flavor to soups, stews, curries and chutneys. The flavors of the leaf compliments meats, fish and shellfish. It pairs well with citrus, garlic and tamarind.",
             "health benifits": "It opens blocked sweat pores in the body. It neutralized the harmful effects in the gut. It stimulates digestion and also helps to treat sore mouths. It helps in the process of purification of blood. Used to treat stomach pain, back pain, asthma, diabetes and kidney disease. It is also used to increase appetite.",
             "ayurveda info": "According to Bhavprakash Nighantu, alpinia galanga is used to pacify kapha dosha in the body. It is heavy in nature, bitter in taste and hot in potency. It helps to cure inflammation, pain, gout, cough and poisoning. This herb is used to treat 80 types of vata disorders.",
             "origin and location": "It is believed to have originated in Southeast Asia, specifically in Southern China. Today, it is cultivated in India, Arabia, Thailand, Indonesia and Sri Lanka. It is found in specialty markets in Europe, Asia and the United States. It favours hot places exposed to extensive sunlight. It can also grow in shrubs, forests, and open spaces. In India, Galangal plants are exported to the Western Ghats and Himalayan Regions."
-           },
-           
-          "Amaranthus Viridis":{
+        },
+        {
             "plant name": "Amaranthus Viridis",
             "common name": " Slender Amaranth, Green Amaranth, Pig Weed, Jungali Chaulayi.",
             "family": "Amaranthaceae.",
@@ -22,7 +20,7 @@
             "ayurveda info": "It is included under the group of vegetables (shaka varga).  Its vipaka is pungent. The liquid  prepared is used in the treatment of diabetes.",
             "origin and location": "It is native to the southern United States and Mexico. It is possibly of Asian origin or from the South Americas. It is occasionally cultivated in Africa."
         },
-        "Artocarpus Heterophyllus":{
+        {
             "plant name": "Artocarpus Heterophyllus",
             "common name": "Jackfruit, Jack Tree.",
             "family": "Moraceae.",
@@ -32,7 +30,7 @@
             "ayurveda info": "It suggests jackfruit as a natural remedy for many illnesses. Unripe jackfruit is very nutritious as it lessens the Vata Dosha",
             "origin and location": "Its origin is in the rain forests of the Western Ghats of India. It spread to other parts of India and the Philippines. It is seen in Africa and is popular in Brazil and Suriname. It is one of the most edible food items in all these places. It is said that it even helped people survive during famine times in the past."
         },
-        "Azadirachta Indica":{
+        {
             "plant name": "Azadirachta Indica",
             "common name": " Neem, Nimtree, Margosa Tree.",
             "family": "Meliaceae.",
@@ -42,7 +40,7 @@
             "ayurveda info": "It is bitter in taste. It gives a powerful cooling energy (virya). The cooling capacity supports healthy blood. It balanced pitta particularly when there is heat in rakta dhatu (the blood). Its light and dry qualities give it the ability to counter kapha as well. Its cold, light, and dry qualities tend to aggravate vata. It has a balancing effect on pitta and kapha in prana vaha srotas.",
             "origin and location": "Neem is thought to have originated in Assam and Burma. However, the exact origin is uncertain. It is in India that the tree is most widely used. It is grown from the southern tip of Kerala to the northern himalayan hills. The tree has been established in Fiji, Mauritius, and many countries of Central and South America."
         },
-        "Basella Alba":{
+        {
             "plant name": "Basella Alba",
             "common name": "Indian Spinach, Malabar Spinach.",
             "family": "Basellaceae.",
@@ -52,7 +50,7 @@
             "ayurveda info": "It increases kapha dosha. It balances vata and pitta dosha.",
             "origin and location": "It is found in tropical Asia and Africa where it is widely used as a leaf vegetable. It is native to the Indian subcontinent, Southeast Asia and New Guinea. It is naturalized in China, Africa, Brazil, Colombia, Philippines, West Indies."
         },
-        "Brassica Juncea":{
+        {
             "plant name": "Brassica Juncea",
             "common name": "Chinese Mustard, Brown Mustard, Indian Mustard, Leaf Mustard.",
             "family": "Mustards or Brassicaceae.",
@@ -62,7 +60,7 @@
             "ayurveda info": "It is bitter and sharp in taste, hot in potency and relieves vata dosha. It aggravates pitta dosha and causes burning sensation, treats gulma, skin diseases and wounds. It also balances kapha dosha.",
             "origin and location": "The center of origin is in Western and Central Asia. Brown mustard has been cultivated in Asia and Europe for thousands of years. Presently, vegetable types of Brassica juncea are cultivated throughout southern and eastern Asia."
         },
-        "Carissa Carandas":{
+        {
             "plant name": "Carissa Carandas",
             "common name": "Bengal Currant, Christ's Thorn, Karonda,Karanda.",
             "family": "Apocynaceae.",
@@ -72,7 +70,7 @@
             "ayurveda info": "The unripe fruit may cause an increase of kapha and pitta dosha",
             "origin and location": "The origin is said to be in India, Burma, Malacca and Ceylon. It is commonly cultivated in these areas and its fruits are marketed in villages. The karanda was first fruited in the Philippines in 1915. It was described as one of the best small fruits introduced into the Philippines within recent years."
         },
-        "Citrus Limon":{
+        {
             "plant name": "Citrus Limon",
             "common name": "Lemon.",
             "family": " Rutaceae.",
@@ -82,7 +80,7 @@
             "ayurveda info": "It works on an aggravated kapha due to its Ushan (hot) potency. It also boosts the immune system if taken regularly.",
             "origin and location": "They are thought to have originated in north-western India. It is known that lemons were introduced to southern Italy around 200AD. It has been cultivated in Egypt and Iran since 700AD. Arabs spread lemons throughout the Mediterranean area during the early second century."
         },
-        "Ficus Auriculata":{
+        {
             "plant name": "Ficus Auriculata",
             "common name": "Elephant Ear Fig, Tirmal, Roxburgh fig.",
             "family": "Moraceae.",
@@ -92,7 +90,7 @@
             "ayurveda info": "It balances doshas and it increases kapha and helps balance pitta.",
             "origin and location": "It is native to India, Nepal, Sikkim, Thailand and South China."
         },
-        "Ficus Religiosa":{
+        {
             "plant name": "Ficus Religiosa",
             "common name": "Bodhi Tree, Peepal.",
             "family": "Moraceae.",
@@ -102,7 +100,7 @@
             "ayurveda info": "The plant is hard to digest. It is cold, heavy and rough in quality and sticky in taste. It alleviates pitta, vata and kapha doshas.",
             "origin and location": "Peepal trees are grown throughout India. It is mainly grown in the State of Haryana, Bihar, Kerala and Madhya Pradesh. It is also found in the Ranthambore National Park in India."
         },
-        "Hibiscus Rosa-sinensis":{
+        {
             "plant name": "Hibiscus Rosa-sinensis",
             "common name": "Chinese hibiscus, China Rose, Shoeblackplant.",
             "family": "Malvaceae.",
@@ -112,7 +110,7 @@
             "ayurveda info": "It is very effective in pacifying aggravated pitta and kapha doshas. ",
             "origin and location": "The exact origin of Hibiscus rosa-sinensis is unknown. It has been cultivated in China, Japan and the Pacific Islands for a long time. Many believe it comes from India."
         },
-        "Jasminum":{
+        {
             "plant name": "Jasminum",
             "common name": "Jasmine.",
             "family": "Oleaceae.",
@@ -122,7 +120,7 @@
             "ayurveda info": "It says that the nervous system is controlled by Vata. Imbalance of Vata causes weak memory or poor mental alertness. It has vata balancing and medhya (brain tonic) properties. It helps manage mental alertness.",
             "origin and location": "Most jasmine plants are found in tropical to subtropical climates. Their center of diversity is in South Asia and Southeast Asia. Several jasmine species have become naturalized in Mediterranean Europe."
         },
-        "Mangifera Indica":{
+        {
             "plant name": "Mangifera Indica",
             "common name": "Mango, Aam.",
             "family": " Anacardiaceae.",
@@ -132,7 +130,7 @@
             "ayurveda info": "The kernel of the seed of mango mitigates pitta and kapha. Unripe mango fruit is not suitable for health. Ripe mango fruit mitigates vata and pitta. Flowers act as a coolant, and are especially beneficial in urinary disorders. Seed oil balances kapha and vata.",
             "origin and location": "It originated in India over 4,000 years ago and is considered a sacred fruit. Mangoes spread gradually throughout Asia and then to the rest of the world. Most of the mango seeds are dispersed by animals, birds, and humans. The flesh of mango fruits are eaten by the animals and birds. They drop the edible part on the ground."
         },
-        "Mentha":{
+        {
             "plant name": "Mentha",
             "common name": "Mint, Bush Mint, Spearmint.",
             "family": "Lamiaceae.",
@@ -142,7 +140,7 @@
             "ayurveda info": "It benefits the kapha and vata dosha.",
             "origin and location": "It dates back to Greek mythology. It originated in the Mediterranean later in Britain, America and the rest of the world."
         },
-        "Moringa Oleifera":{
+        {
             "plant name": "Moringa Oleifera",
             "common name": "Drumstick.",
             "family": "Moringaceae.",
@@ -152,7 +150,7 @@
             "ayurveda info": "It decreases imbalanced kapha and vata. It increases pitta and vitiated blood. It should not be taken during bleeding disorders and menstruation. People who have pitta related skin diseases shouldn’t consume this plant.",
             "origin and location": "During the Middle Ages, it used to provide rhythm to musical performances. Drumsticks made their first noted appearance in the 7th century in Asia. It now grows in the wild or is cultivated in America, Asia and various countries of Oceania."
         },
-        "Muntingia Calabura":{
+        {
             "plant name": "Muntingia Calabura",
             "common name": "Jamaica cherry, Kewni, Paanchara, Gasagase hanninamara.",
             "family": "Muntingiaceae.",
@@ -162,7 +160,7 @@
             "ayurveda info": "Various parts of the plant are used to treat different types of illnesses. The flowers and bark are used to reduce swelling. The leaves when boiled are used to reduce gastric ulcer and to alleviate headache and cold. The plant is also used to treat stomach ache and mouth pimples.",
             "origin and location": "It is indigenous to Mexico, Central and South America. It is widely cultivated in India, Indonesia and the Philippines. The fruits are sold in Mexican markets."
         },
-        "Murraya Koenigii":{
+        {
             "plant name": "Murraya Koenigii",
             "common name": "Curry Leaf, Kari Patta.",
             "family": "Rutaceae.",
@@ -172,7 +170,7 @@
             "ayurveda info": "The curry leaves are appreciated for its therapeutic actions like keshya, pachana, ruchya, etc.",
             "origin and location": "The tree is native to the Indian subcontinent. Commercial plantations have been established in India, and more recently Australia. It grows best in well-drained soils in areas with full sun or partial shade. Growth is more robust when temperatures are at least 18 degree celsius."
         },
-        "Nerium Oleander":{
+        {
             "plant name": "Nerium Oleander",
             "common name": "Oleander, Kaner.",
             "family": "Apocynaceae.",
@@ -182,7 +180,7 @@
             "ayurveda info": "It is a herbal plant which is toxic but has been found to have ayurvedic uses. Its external application is indicated in bites of poisonous insects. The stem, leaves and flowers of Karavira contain glycosides which show anti-inflammatory activity. It balances kapha and vata.",
             "origin and location": "In the ancient texts, it is known as “the desert rose”. In the 15th century the Mesopotamians trusted in the healing benefits of oleander extracts. It is native to the Western Himalayas. It is an incredibly hardy, adaptable plant which grows thick and green in mountainous climates. It is grown as an ornamental shrub in gardens throughout India. It is found growing from Nepal westwards to Kashmir and in Madhya Pradesh. It is also found in Uttar Pradesh, Punjab, Balochistan, South India, China and Japan. It is found on the road sides and grown in the fences in Southern India. Its flowers are used to worship God."
         },
-        "Nyctanthes Arbor-tristis":{
+        {
             "plant name": "Nyctanthes Arbor-tristis",
             "common name": "Night Blooming Jasmine, Tree of Sadness, Coral Jasmine.",
             "family": "Oleaceae.",
@@ -192,7 +190,7 @@
             "ayurveda info": "It is used to pacify the diseases occuring due vitiation of vata and kapha. The intake of milk, ghee, sugar are used as anupana(vehicle).",
             "origin and location": "According to mythology, this plant is a heavenly tree brought to earth by Lord Krishna. It is native to the sub-tropical Himalayas of Nepal and India. It is usually found in southern parts of India, Thailand, Malaysia and Indonesia. It is found in dry hillsides and in dry deciduous forest. It is often planted near Hindu temples in India, Sri Lanka and Malaysia."
         },
-        "Ocimum Tenuiflorum":{
+        {
             "plant name": "Ocimum Tenuiflorum",
             "common name": "Holy Basil, Tulsi.",
             "family": "Lamiaceae.",
@@ -202,7 +200,7 @@
             "ayurveda info": "Tulsi is perhaps one of the best examples of Ayurveda's holistic lifestyle approach to health. It tastes hot and bitter. It normalizes kapha and vata dosha. It prevents diseases and promotes good health. It reduces the stresses of daily life. It is credited with giving luster to the complexion and sweetness to the voice. It helps calm emotional disposition.",
             "origin and location": "It is considered indigenous to the Indian subcontinent. It is now widely cultivated and naturalized in places around the world. The Caribbean, Pacific Islands, and parts of Africa. It has been used for various other purposes for at least 3000 years."
         },
-        "Piper Betle":{
+        {
             "plant name": "Piper Betle",
             "common name": "Betel, Paan.",
             "family": "Piperaceae.",
@@ -212,7 +210,7 @@
             "ayurveda info": "It increases pitta dosha. Balances kapha and vata dosha. It relieves diseases related to kapha dosha like cough, high cholesterol level and diabetes.",
             "origin and location": "The betel plant originated in Southern and Southeast Asia. It is cultivated mostly in South and Southeast Asia, from Pakistan to Papua New Guinea. It needs a compatible tree or a long pole for support. Betel requires well-drained fertile soil. Waterlogged, saline and alkali soils are unsuitable for its cultivation."
         },
-        "Plectranthus Amboinicus":{
+        {
             "plant name": "Plectranthus Amboinicus",
             "common name": "Indian Mint, Mexican Mint, Country Borage, Ajwain.",
             "family": "Lamiaceae.",
@@ -222,7 +220,7 @@
             "ayurveda info": "The juice is given with ginger to improve appetite and treat indigestion. The paste of the leaf is applied over the forehead to treat headache. It is also used in vatavyadhi.",
             "origin and location": "The origin is unknown, but it may be native to Africa and possibly India. It is cultivated in gardens and commercial agricultural settings. In Africa it is found at low altitudes in woodland or coastal bush. It is widely cultivated and naturalized in Indonesia. In Bolivia, the species is cultivated in semi-deciduous forest."
         },
-        "Pongamia Pinnata":{
+        {
             "plant name": "Pongamia Pinnata",
             "common name": "Indian Beech.",
             "family": "Fabaceae.",
@@ -232,7 +230,7 @@
             "ayurveda info": "It is used in skin diseases. Karanja twigs were used as a toothbrush in ancient times. It's bitter in rasa. It balances kapha and vata.",
             "origin and location": "It probably originated from India. It now occurs naturally from Pakistan, India, Sri Lanka, Fiji and Japan. It has been introduced in Egypt and the United States (Florida, Hawaii). It is native to eastern and tropical Asia, Australia, and Pacific islands."
         },
-        "Psidium Guajava":{
+        {
             "plant name": "Psidium Guajava",
             "common name": " Guava, Yellow Guava, Lemon Guava.",
             "family": "Myrtaceae.",
@@ -242,7 +240,7 @@
             "ayurveda info": "It is considered as an important herbal medicine for dysentery and diarrhea. Guava helps to reduce accumulated mucus because of its Kapaha reducing property. It corrects the digestive fire and reduces Ama. It improves metabolism and helps to control high cholesterol levels",
             "origin and location": "It is believed to have originated from Southern Mexico or Central America. The Spaniards and Portuguese are considered to be responsible for distribution of guava fruit. India, South America, the United States, and the Philippines are primary producers."
         },
-        "Punica Granatum":{
+        {
             "plant name": "Punica Granatum",
             "common name": "Pomegranate.",
             "family": "Punicaceae.",
@@ -252,7 +250,7 @@
             "ayurveda info": "It is semi hot in potency and it has an effect to balance the Tridosha. Its rasa is sweet, astringent and sour.",
             "origin and location": "The pomegranate was originally described throughout the Mediterranean region. It was introduced into Spanish America in the late 16th century. In India, it is cultivated commercially only in Maharashtra. Small scale plantations are also seen in Gujarat, Rajasthan, Karnataka and Punjab."
         },
-        "Santalum Album":{
+        {
             "plant name": "Santalum Album",
             "common name": "Sandalwood.",
             "family": "Santalaceae.",
@@ -262,7 +260,7 @@
             "ayurveda info": "Its powder and oil form is known to have relaxing and cooling properties. It can balance all doshas. It is antiseptic, retains moisture levels, is toning, purifying, and soothing. One of its most important applications in Ayurveda is to treat the nervous system by calming anxiety. The oil heals the three doshas of the body - treats Vata, pacifies and balances Pitta and Kapha",
             "origin and location": "These are found in Asia, Australia, Indonesia, Hawaii, and other Pacific Islands. It is a threatened species indigenous to South India. It grows in the Western Ghats and a few other mountain ranges."
         },
-        "Syzygium Cumin":{
+        {
             "plant name": "Syzygium Cumin",
             "common name": "Jamun, Java Plum, Malabar Plum.",
             "family": "Myrtaceae.",
@@ -272,7 +270,7 @@
             "ayurveda info": "It relieves tiredness. It balances pitta and its symptoms like burning sensation. It increases Vata.",
             "origin and location": "It is originally from India. It is widely distributed in Asian countries such as Malaysia, Thailand, and the Philippines."
         },
-        "Syzygium Jambos":{
+        {
             "plant name": "Syzygium Jambos",
             "common name": "Rose Apple, Water Apple.",
             "family": "Myrtaceae.",
@@ -282,7 +280,7 @@
             "ayurveda info": "The seeds are used to treat diarrhoea, dysentery, diabetes and catarrh. A decoction of bark is used to relieve asthma and bronchitis.",
             "origin and location": "It is thought to be native to South-East Asia, Indonesia, Philippines and Malaysia. Its natural distribution is not in India where the tree is thought to have been introduced. It is suggested that it was also introduced to the former Indochina region."
         },
-        "Tabernaemontana Divaricata":{
+        {
             "plant name": "Tabernaemontana Divaricata",
             "common name": "Pinwheel Flower, Crape Jasmine, Chandni.",
             "family": "Apocynaceae.",
@@ -292,7 +290,7 @@
             "ayurveda info": "It is widely used as a medicinal herb in the tropics. The roots, leaves, and flowers are all used in the treatment of snake and scorpion poisoning. The flowers, mixed with oil, are applied to sore eyes.",
             "origin and location": "It is native to Asian countries like India, Nepal, Bhutan, China and Thailand. It is cultivated throughout the tropics for its ornamental and fragrant flowers"
         },
-        "Trigonella Foenum-graecum":{
+        {
             "plant name": "Trigonella Foenum-graecum",
             "common name": "Fenugreek, Methi.",
             "family": "Fabaceae.",
@@ -302,5 +300,5 @@
             "ayurveda info": "It is useful in treating disorders of vata dosha imbalance. It balances kapha.",
             "origin and location": "It is probably indigenous to the eastern Mediterranean, Western Asia and India. The first written record dates back as far as 4000 BC. Its cultivation spread to China, Ethiopia, Europe, Soviet Russia and throughout the Arab World. In Europe and North America it is now grown on a small scale only."
         }
-      }
+    ]
 }
